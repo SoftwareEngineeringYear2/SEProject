@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChartMaker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Chart Maker</string>
+    <string name="enterButton">Enter</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_gantt">GANTT</string>
+</resources>
