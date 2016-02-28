@@ -1,0 +1,25 @@
+To be done:
+
+1.GANTT Chart:
+1.1. GANTT Chart Functionality.
+1.2. Saving/Loading.
+1.3. Screen optimisation.
+
+2.WBT
+2.1. WBT Functionality
+2.2. Saving/Loading.
+2.3. Screen Optimisation
+
+3. PERT Chart
+3.1. PERT Functionality
+3.2. Saving/Loading.
+3.3. Screen Optimisation.
+
+4.Database
+4.1. All of it?
+
+5. UI
+5.1. Name entry to be fixed.
+5.2. Screen Optimisation
+
+6. Testing
